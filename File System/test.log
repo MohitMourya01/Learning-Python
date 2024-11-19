@@ -1,0 +1,16 @@
+INFO:root:log this line of execution
+INFO:root:this my print
+WARNING:root:this is my warning message
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+INFO:root:log this line of execution
+INFO:root:this my print
+WARNING:root:this is my warning message
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
